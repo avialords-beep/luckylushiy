@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Host: seoluckybear.ru
+
+Sitemap: https://seoluckybear.ru/sitemap.xml
